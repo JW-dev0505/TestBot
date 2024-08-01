@@ -3,3 +3,4 @@ Project install steps.
 npm install
 npm start or npm run start-front and npm run start-server
 
+npm install
